@@ -1,0 +1,217 @@
+/*------scrolltop----------*/
+#myBtn{display: none;position: fixed;bottom: 20px;right: 30px;z-index: 99;font-size: 26px;border: none;outline: none;background-color: red;color: white;cursor: pointer;padding: 15px;border-radius:50px;}
+#myBtn:hover {background-color:#00003E;}
+/*---end of scronn top----*/
+/*--------------------------------- top bar -----------------------------*/
+.top_bar{background:#202020;padding:5px 0;}
+.socal_media_icons{margin:5px;}
+.contact_info{color:#FFF;font-size:16px;}
+/*------------------ End of top bar -----------------------------------*/
+/*------------------- middle section-----------------------------------*/
+.middle_section{background:#FFF;padding:15px 0;}
+/*-------------------End of middle section ----------------------------*/
+/*---------------------- nevigation ----------------------------------*/
+.navbar-nav li a{margin-left:30px;font-size:15px;font-weight: bold;font-style: italic; color:#FFF;}
+
+/*--------------------end of nevigation section-----------------------*/
+/*---------------------slider-----------------------------*/
+.carousel-item img{height:500px;width:100%;}
+.btn_next{height:40px;width:40px;margin-top:250px;margin-right:40px;}
+.btn_prev{height:40px;width:40px;margin-top:250px;margin-left:40px;}
+/*----------------------welcome section-------------------------------*/
+.wel_cont_head{margin-top:100px;}
+.welcome_heading{font-size:40px;font-weight: bold;color:Tomato;}
+.line_style{background-color:#300;height:5px;}
+.img_set{height:250px;width:600px;}
+.inner_container{margin-top:50px}
+/*-------------service------------------*/
+.service-body{background:#fff;font-family:poppins;}
+.single-service{border:1px solid #ebebeb;text-align:center;background:#fff;border-radius:5px;margin-right:10px;margin-left:10px;}
+.service-bg{height:200px;position:relative;}
+.service-bg-1{background:url(../images/Slideimages/webdev.jpg);-webkit-background-size:cover;background-position:center;}
+.service-bg-2{background:url(../images/Slideimages/webdesign.jpg);-webkit-background-size:cover;background-position:center;}
+.service-bg-3{background:url(../images/Slideimages/softdev.jpg);-webkit-background-size:cover;background-position:center;}
+.service-bg-4{background:url(../images/Slideimages/appdev.jpg);-webkit-background-size:cover;background-position:center;}
+.service-bg h2{color:#FFF;background:#002;border:1px solid tomato;font-size:20px;text-align:center;font-weight:700;padding:15px;position:absolute;left:8%;width:84%;margin:0;bottom:-25px;border-radius:50px;letter-spacing:2px;}
+.single-service:hover .service-bg h2{background:#fff;transition:.9s;color:#170000;}
+.service-text{padding:50px 30px 20px;font-size:15px;font-weight:400;}
+.service-text p:last-child{margin:0;lineheight:1.8;}
+.btn-area{display:inline-block;color:#333;font-size:17px;font-weight:700;margin-top:30px;text-transform:capitalize;}
+
+/*------------end of service-----------*/
+/*--industery---*/
+
+.gallery-title
+{
+    font-size: 36px;
+    color: #42B32F;
+    text-align: center;
+    font-weight: 500;
+    margin-bottom: 70px;
+}
+.gallery-title:after {
+    content: "";
+    position: absolute;
+    width: 7.5%;
+    left: 46.5%;
+    height: 45px;
+    border-bottom: 1px solid #5e5e5e;
+}
+.filter-button
+{
+    font-size: 18px;
+    border: 1px solid #FC0;
+    border-radius: 5px;
+    text-align: center;
+    color:#FFF;
+    margin-bottom: 30px;
+	font-weight:bold;
+	background-color:#000028;
+
+}
+.filter-button:hover
+{
+    font-size: 18px;
+    border: 1px solid #42B32F;
+    border-radius: 5px;
+    text-align: center;
+    color=#FFF;
+    background-color:#FFF;
+
+}
+.btn-default:active .filter-button:active
+{
+    background-color:#000028;
+    color: white;
+}
+
+.port-image
+{
+    width: 100%;
+}
+
+.gallery_product
+{
+    margin-bottom: 10px;
+}
+.industry-img-size{
+height:200px;
+width:260px;
+border-radius:15px;	
+}
+
+
+
+
+
+
+
+
+
+/*.gallery-container{
+ .thumbnail{
+	 padding-bottom: 20px;
+	 position:relative;
+	 border-radius:5px;
+	 img{
+		 max-width:100%;
+		 border-radius:5px;
+		 box-sizing:border-box;
+		 box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.8);
+   }
+ }	
+}*/
+/*--.image-item{height:200px;weidth:200px;margin-left:10px;}--*/
+/*.industry-menu{text-align:center;}
+.industry-menu ul li{
+display:inline-block;
+margin:0;
+list-style:none;
+padding:10px 15px;
+border:1px solid tomato;
+cursor:pointer;
+-webkit-transition:all .5s ease;
+-moz-transition:all .5s ease;
+-ms-transition:all .5s ease;
+-o-transition:all .5s ease;
+transition:all .5s ease;
+}
+.industry-menu ul li:hover{
+background:tomato;
+color:#ffffff;	
+}*/
+/*.industry-item{
+width:100%;
+}
+.industry-item .item{
+width:303px;
+float:left;
+margin-bottom:10px;
+}*/
+/*.industry-menu ul li.active{
+background: tomato;
+color: #ffffff;
+}*/
+/*--end of industry--*/
+/*----technology section----*/
+.technology-img{height:350px;width:350px;}
+.technology-sec-img{height:200px;width:350px;}
+.mob-technology-img{height:200px;width:200px;}
+.our-technology-box{text-align:center;}
+/*---end of technology section---*/
+
+/*--------client section------*/
+.client-img{height:100px;width:100px;}
+.our-client-box{text-align:center;}
+
+/*-------end of client section*/
+/*---team section-----*/
+.team-img-set{height:250px;width:250px;}
+.our-team-box{text-align:center;}
+.our-team-box img{border:5px solid #202020;}
+.icons i{margin:6px;font-size:20px;border:2px solid #fff;padding:5px;border-radius:3px;}
+.icons{background-color:#000015;padding:8px;margin-left:25px;margin-right:25px;position:relative;margin-top:-35px;border-radius:8px;}
+.icons a{color:#fff;}
+.icons a:hover{color:#F0F000;}
+.our-team-box h4{font-size:20px;margin-top:16px;}
+/*----end of team section------*/
+
+/*----------footer-------*/
+.footer-header{background-color:#000020;margin-top:100px;}
+.text-proper{color:#FFF;}
+.set-proper{color:#FFF;margin-right:20px;}
+.footer-lower-text{color:#FFF;}
+.custom-line{background-color:tomato;height:4px;border-radius:5px;}
+.footer-link {color:#000040;}
+.footer-link:hover{color:tomato;}
+/*---------end footer----------*/
+/*--page loader---*/
+
+/*---end page loader--*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*body{margin:0;padding:0;}
+
+
+#scrl_btn{position:fixed;button:40px;right:40px;font-size:25px;width:50px;height:50px;background:#FF641A;color:#FFF;border:none;
+cursor:pointer;display:none;}
+
+/*--------------------------------- loader section-----------------------*/
+/*.sk-circle{position:fixed;margin-top:250px;margin-left:680px;}
+#pre_loader{position:fixed;top:0;bottom:0;left:0;right:0;background:#FFF;}
+
+<!---------------------------------- end loader section -----------------*/
