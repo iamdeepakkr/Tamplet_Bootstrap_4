@@ -15,31 +15,13 @@
 </head>
 
 <body id="home_section">
-<!----------------------------------- start loader setion ----------------------------->
-<!--<div class="pr_loader">
-     <div class="sk-circle">
-        <div class="sk-circle1 sk-child"></div>
-        <div class="sk-circle2 sk-child"></div>
-        <div class="sk-circle3 sk-child"></div>
-        <div class="sk-circle4 sk-child"></div>
-        <div class="sk-circle5 sk-child"></div>
-        <div class="sk-circle6 sk-child"></div>
-        <div class="sk-circle7 sk-child"></div>
-        <div class="sk-circle8 sk-child"></div>
-        <div class="sk-circle9 sk-child"></div>
-        <div class="sk-circle10 sk-child"></div>
-        <div class="sk-circle11 sk-child"></div>
-        <div class="sk-circle12 sk-child"></div>
-      </div>
-</div>-->
 
-<!------------------------------------ end loader section --------------------------->
-<!----------------------------------- Start header ----------------------------->
+<!--Start header-->
        <div class="container-fluid top_bar">
               <div class="container">
                     <div class="row">
                           <div class="col-sm-9 contact_info">
-                              <a href="#" class="contact_icons"><i class="fa fa-phone" style="font-size:20px; color:#FFF;"></i></a>&nbsp Contact us:+91-7739108316 &nbsp &nbsp
+                              <a href="#" class="contact_icons"><i class="fa fa-phone" style="font-size:20px; color:#FFF;"></i></a>&nbsp Contact us:+91-0039108000 &nbsp &nbsp
                               <a href="#" class="contact_icons"><i class="fa fa-envelope" style="font-size:20px; color:#FFF;"></i></a>&nbsp Email: iscolto@gmail.com
                           </div>
                           
@@ -52,11 +34,11 @@
                               <a href="#" class="socal_media_icons"><i class="fa fa-linkedin" style="font-size:20px; color:#FFF;"></i></a>
                               <a href="#" class="socal_media_icons"><i class="fa fa-twitter" style="font-size:20px; color:#FFF;"></i></a>
                           </div>
-                    </div><!-- end row -->
-              </div><!-- end container -->
-       </div><!-- end container fluid -->
+                    </div>
+              </div>
+       </div>
  
- <!----------middle section-------->
+ <!--middle section-->
      <div class="container-fluid middle_section">
          <div class="container">
              <div class="row" >
@@ -69,7 +51,7 @@
                              
                                     <i class="fa fa-map-marker" style="font-size:20px;"></i>
                                     <p>
-                                       RZ 46 A/5, Street no 2, Main Sagarpur
+                                        Main Sagarpur
                                     </p>
                                     <p> Sagarpur, New Delhi, India, 110046</p>
                                    
@@ -86,25 +68,22 @@
                      
                                     <i class="fa fa-address-book" style="font-size:20px;"></i>
                                     <p>info@iscolto.com</p>
-									<p> <a href="tel:+91-7739108316">+91-7739108316</a> </p>
+									<p> <a href="tel:+91-0039108000">+91-003910000</a> </p>
                                   
                  </div>
                  <div class="col-sm-2" >
                        
                                     <i class="fa fa-whatsapp" style="font-size:20px;"></i>
 									<p>Contact us</p>
-									<p> <a href="tel:+91-7739108316">+91-7739108316</a></p>  
+									<p> <a href="tel:+91-0039108000">+91-0039100000</a></p>  
                                     
                                  
                  </div>
              </div>
          </div>
      </div>
-<!-------------------End of middle section----------------->
-                  
-<!-------------------------------------- Navigation section ----------------------------------->
-
-
+                
+<!--Navigation-->
 <div class="sticky-top" style="background-color:#000020">
         <div class="container">
              <nav class="navbar navbar-expand-sm navbar-dark">
@@ -125,9 +104,8 @@
                  </div>
              </nav> 
        </div>
- </div> 
-<!-------------------------------------- End of Navigation section--------------------------->    
-<!-------------------------------------- image slider section---------------------------------->
+ </div>    
+<!--image slider-->
 <div style="margin-top:2px;">
      <div class="carousel slide carousel-fade" data-ride="carousel" data-interval="3000" id="myid">
           <div class="carousel-inner">
@@ -192,8 +170,8 @@
              </ol>
      </div>
 </div>
-<!--------------------------------------end of image slider section---------------------------->
-<!---------------------- Welcome section ------------------->
+
+<!--Welcome-->
 
 <div id="aboutUS_section">     
      <div class="container wel_cont_head">          
@@ -201,9 +179,9 @@
                <div class="col-md-12">
                       <p class="text-center font-italic welcome_heading">Welcome to our company</p>
                       <hr size=5 WIDTH=20% ALIGN=CENTER class="line_style">
-               </div><!--end of col-->
-          </div><!--end row-->     
-     <!--<div class="container inner_container">  -->      
+               </div>
+          </div>  
+    
         <div class="row inner_container">          
           <div class="col-sm-7 col_height">            
             <div class="row">
@@ -219,13 +197,10 @@
 We specialise in Windows Application, Software Development, Web Design, Web Hosting, Professional SEO (Search Engine Optimization) services, Web Application Development. Reputation is our first priority in our business mind. We take pride in our honest approach to doing business. Best quality vs cost-effectiveness, we are always unbeaten! We have a proven track records in delivering high quality works with cost-effective methodology. This is why beside new leads from search engine, most of our customers come from word-of-mouth recommendations. Track records don't lie, Our strong determination and state-of-the-art infrastructure have help us achieved our goals and we are still continuously working with the best out of the best.</p>
                </div>
             </div>
-       <!-- </div><!--end of third container-->
-    </div><!--end of first container-->
-</div><!--end of aboutus section--->
+    </div>
+</div>
 
-<!--------------------------------------end of welcome section---------------------------->
-<!--------------------------------------Services section---------------------------->
-
+<!--Services-->
 <div id="services" class="service-body">
      <div class="container wel_cont_head">
           <div class="row">
@@ -289,21 +264,19 @@ We specialise in Windows Application, Software Development, Web Design, Web Host
                </div>
         </div>
         
-    </div><!--end of first container-->
-</div><!--end of aboutus section--->
+    </div>
+</div>
 
-<!--------------------------------------end of services section---------------------------->
-
-<!----- industry specific solutions----->
+<!--industry-->
 <div id="industry">
 <div class="container" style="border: 1px solid;margin-top:100px;">
        <div class="row">
                <div class="col-md-12">
                      <p class="text-center font-italic welcome_heading">Our industry specific solutions</p>
                      <hr size=5 WIDTH=20% ALIGN=CENTER class="line_style">
-              </div> <!---end of col----->
-          </div><!--end of row-->
-       <!--menu row-->
+              </div> 
+          </div>
+
 <div class="container">
  <div class="row" style="margin-top:50px;">
      <div class="gallery col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center">
@@ -318,8 +291,7 @@ We specialise in Windows Application, Software Development, Web Design, Web Host
         <br/>
    </div>    
 </div>
-<!--end menu row-->
-    <!---images row-->
+<!--images-->
 <div class="row" style="margin-top:5px;">
 
             <div class="gallery_product col-lg-3 col-md-3 col-sm-3 col-xs-6 filter educational">
@@ -370,112 +342,93 @@ We specialise in Windows Application, Software Development, Web Design, Web Host
                 <img src="industryimages/hotel3.jpg" class="img-responsive industry-img-size"/>
             </div>
         </div>
-     <!--end images rows-->
 
-   </div><!--end of 2nd container-->
+   </div>
 </div>
 </div>
-<!-----end of  industry specific solutions--->
 
-<!-----Technology section------>
+<!--Technology-->
 <div id="technology">
 <div class="container" style="margin-top:100px;">
        <div class="row">
                <div class="col-md-12">
                      <p class="text-center font-italic welcome_heading">Our technologies</p>
                      <hr size=5 WIDTH=5% ALIGN=CENTER class="line_style">
-              </div> <!---end of col----->
-          </div><!--end of row-->
+              </div> 
+          </div>
        <div class="row" style="margin-top:50px;">
           
-          <!---backend--->
+
                 <div class="col-sm-4">
                         <div class="our-technology-box">
                              <img class="rounded technology-img" src="images/technology/Backend.jpg"/>                  
                       </div>
                  </div>
-          <!-- end of backend--->
-          <!---frontend--->
+
                 <div class="col-sm-4">
                         <div class="our-technology-box">
                              <img class="rounded technology-sec-img" src="images/technology/forntend.jpg"/>                  
                       </div>
                  </div>
-          <!-- end of frontend--->
-           <!---mobile--->
+          
                 <div class="col-sm-4">
                         <div class="our-technology-box">
                              <img class="rounded mob-technology-img" src="images/technology/mobile.jpg"/>                  
                       </div>
                  </div>
-          <!-- end of mobile--->
           
        </div>
 </div>
 </div>
 
-<!-----end of technology section----->
-
-<!----client section------->
+<!--client-->
 <div class="container wel_cont_head">
        <div class="row">
                <div class="col-md-12">
                      <p class="text-center font-italic welcome_heading">Our client</p>
                      <hr size=5 WIDTH=5% ALIGN=CENTER class="line_style">
-              </div> <!---end of col----->
-       </div><!--end of row-->
+              </div>
+       </div>
        <div class="row" style="margin-top:50px;">
-             <!--client 1-->
+           
                  <div class="col-md-6 col-lg-3">
                       <div class="our-client-box">
                          <img class="rounded client-img" src="images/clientimage/bg.jpg"/> 
                                                     
                       </div>
                  </div>
-             <!---end client 1-->
              
-             <!--client 2-->
                  <div class="col-md-6 col-lg-3">
                         <div class="our-client-box">
                              <img class="rounded client-img" src="images/clientimage/bg.jpg"/>                      
                       </div>
                  </div>
-             <!---end cllient 2-->
              
-             <!--client 3-->
                  <div class="col-md-6 col-lg-3">
                       <div class="our-client-box">
                             <img class="rounded client-img" src="images/clientimage/bg.jpg"/>                     
                       </div>
                  </div>
-             <!---end client 3-->
-             
-             <!--client 4-->
+
                  <div class="col-md-6 col-lg-3">
                       <div class="our-client-box">
                            <img class="rounded client-img" src="images/clientimage/bg.jpg"/>                  
                            
                       </div>
-                 </div>
-             <!---end client 4-->
-       
+                 </div>      
        </div>
 </div>
-
-
-
-
-<!---end of client section---->
-<!----our team section------>
+<!--team-->
 <div class="container wel_cont_head">
        <div class="row">
                <div class="col-md-12">
                      <p class="text-center font-italic welcome_heading">Our team</p>
                      <hr size=5 WIDTH=5% ALIGN=CENTER class="line_style">
-              </div> <!---end of col----->
-          </div><!--end of row-->
+              </div>
+          </div>
+	
        <div class="row" style="margin-top:50px;">
-             <!--team 1-->
+          
                  <div class="col-md-6 col-lg-3">
                       <div class="our-team-box">
                           <img class="team-img-set rounded" src="images/Teamsection/img.png"/>
@@ -489,9 +442,7 @@ We specialise in Windows Application, Software Development, Web Design, Web Host
                           <p>Founder/CEO</p>
                       </div>
                  </div>
-             <!---end team 1-->
-             
-             <!--team 2-->
+            
                  <div class="col-md-6 col-lg-3">
                         <div class="our-team-box">
                           <img class="team-img-set rounded" src="images/Teamsection/img.png"/>
@@ -505,9 +456,7 @@ We specialise in Windows Application, Software Development, Web Design, Web Host
                           <p>Co-founder</p>
                       </div>
                  </div>
-             <!---end team 2-->
              
-             <!--team 3-->
                  <div class="col-md-6 col-lg-3">
                       <div class="our-team-box">
                           <img class="team-img-set rounded" src="images/Teamsection/img.png"/>
@@ -521,9 +470,7 @@ We specialise in Windows Application, Software Development, Web Design, Web Host
                           <p>Co-founder</p>
                       </div>
                  </div>
-             <!---end team 3-->
-             
-             <!--team 4-->
+            
                  <div class="col-md-6 col-lg-3">
                       <div class="our-team-box">
                           <img class="team-img-set rounded" src="images/Teamsection/img.png"/>
@@ -537,13 +484,10 @@ We specialise in Windows Application, Software Development, Web Design, Web Host
                           <p>Co-founder</p>
                       </div>
                  </div>
-             <!---end team 4-->
+             
        </div>
 </div>
-<!---end of team section----> 
-<!----------------footer section --------------->
-<!-- Footer -->
-<!---footer header---->
+<!--footer-->
 <div id="contactus">
 <div class="container-fluid footer-header">
      <div class="container">
@@ -561,9 +505,7 @@ We specialise in Windows Application, Software Development, Web Design, Web Host
           </div>
         </div>
       </div>
-    </div>
-<!---end of footer header---->
-<!------footer middle section----------->    
+    </div>  
 
     <div class="container text-center text-md-left mt-5">
 
@@ -637,30 +579,23 @@ We specialise in Windows Application, Software Development, Web Design, Web Host
           <h6 class="text-uppercase font-weight-bold text-left" style="color:#000042;">Contact US</h6>
           <p><hr size=4 WIDTH=15% ALIGN=LEFT class="custom-line"></p>
           <p>
-            <i class="fa fa-home mr-3"></i> RZ 46 A/5, Street no 2, Main Sagarpur, Sagarpur, New Delhi, India, 110046..</p>
+            <i class="fa fa-home mr-3"></i> New Delhi, India, 110046..</p>
           <p>
             <i class="fa fa-envelope mr-3"></i> info@iscolto.com</p>
           <p>
-            <i class="fa fa-phone mr-3"></i> +91 8804420251</p>
+            <i class="fa fa-phone mr-3"></i> +91 0042254800</p>
           <p>
-            <i class="fa fa-whatsapp mr-3"></i> +91 7739108316</p>
+            <i class="fa fa-whatsapp mr-3"></i> +91 2500078965</p>
             
-            <!----map section---->
+
               <div class="map container-fluid bg-dark" style="height:220px;width:100%;border-radius:15px">
                   
                          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d23660490.428146187!2d62.9569816536609!3d19.226336177568957!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfd5b347eb62d%3A0x52c2b7494e204dce!2sNew+Delhi%2C+Delhi!5e0!3m2!1sen!2sin!4v1548251829756" width="100%" height="200" frameborder="0" style="border-radius:15px;margin-top:10px;margin-bottom:10px;" allowfullscreen></iframe>
                  
-              </div>
-            
-            <!----map section end--->
-            
-          </div><!----end main div------->
-        <!-- end of contact us section -->
-
+              </div>   
+          </div>
       </div>
     </div>
-    <!---footer middle section end-----> 
-<!---footer lower section----->
 <div class="container-fluid footer-header">
 
     <div class="footer-copyright text-center py-4"><p class="footer-lower-text">© 2019 All Right Reserved:&nbspiscolto.com</p>
@@ -668,23 +603,13 @@ We specialise in Windows Application, Software Development, Web Design, Web Host
   </div>
  </div> 
  </div>
- <!-----end of footer lower section---->
-<!---------------end footer section------------->
 
 <button onclick="topFunction()" id="myBtn"><i class="fa fa-angle-up"></i></button>
 
-<!--- pr_loader ---->
-<!--<script>
-      $window().on('load',function(){
-		  $('#pre_loader').delay(300).fadeOut(3000);
-		  $('.sk-circle').fadeOut(3000);
-      }); 
-</script> 
-<!---- end prloader ------> 
-      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"></script>
-      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"></script>
-      <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"></script>
+<script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"></script>
       <script src="script/myscript.js"></script>
 <script>
 	          $(document).ready(function(){
